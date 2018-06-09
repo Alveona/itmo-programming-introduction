@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Assets/cell_0.png</file>
+        <file>Assets/cell_1.png</file>
+        <file>Assets/cell_2.png</file>
+        <file>Assets/cell_3.png</file>
+        <file>Assets/cell_4.png</file>
+        <file>Assets/cell_5.png</file>
+        <file>Assets/cell.png</file>
+        <file>Assets/counter_background.png</file>
+        <file>Assets/flag.png</file>
+        <file>Assets/game_button.png</file>
+        <file>Assets/mine.png</file>
+        <file>Assets/cell_6.png</file>
+        <file>Assets/cell_7.png</file>
+        <file>Assets/cell_8.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Assets/digital-7.ttf</file>
+    </qresource>
+</RCC>

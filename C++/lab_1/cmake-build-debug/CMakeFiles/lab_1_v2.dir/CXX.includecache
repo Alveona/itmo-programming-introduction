@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pomavau/Documents/Projects/C++/lab_1_v2/LN.cpp
+cstdlib
+-
+LN.h
+/Users/pomavau/Documents/Projects/C++/lab_1_v2/LN.h
+cstring
+-
+
+/Users/pomavau/Documents/Projects/C++/lab_1_v2/LN.h
+cstdio
+-
+
+/Users/pomavau/Documents/Projects/C++/lab_1_v2/main.cpp
+iostream
+-
+LN.h
+/Users/pomavau/Documents/Projects/C++/lab_1_v2/LN.h
+

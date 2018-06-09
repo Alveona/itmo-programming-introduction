@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Assets/sendmsg.png</file>
+        <file>Assets/menuicon.png</file>
+        <file>Assets/statusbarimage.png</file>
+    </qresource>
+</RCC>
