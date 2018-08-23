@@ -6,7 +6,7 @@ Tasks I did during Programming Intoduction course in ITMO University
 + **C language**
 	+ **Lab1**: Sort address book in alphabetical order using your own QuickSort implementation
 	+ **Lab2**: Solve system of linear equations using gaussian elimination
-	+ **Lab3**: Found exit in labirynth using any algorythm (I have done with both Dijkstra and Lee)
+	+ **Lab3**: Find exit in labirynth using any algorythm (I have done with both Dijkstra and Lee)
 	+ **Lab4**: Find an answer of arithemtic expression with brackets/square roots/abs operation (Done using RPN)
 
 + **C++ language**
